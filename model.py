@@ -48,4 +48,3 @@ response_model = ResponseModel(
     data=new_user
 )
 
-print(response_model)
